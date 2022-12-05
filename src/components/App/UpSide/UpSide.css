@@ -1,0 +1,10 @@
+.up-side {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+}
+.up-side p {
+  font-size: 32px;
+}/*# sourceMappingURL=UpSide.css.map */

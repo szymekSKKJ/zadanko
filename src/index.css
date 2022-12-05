@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  padding: 25px;
+}
+
+.main-button {
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  padding: 10px 30px 10px 30px;
+  font-weight: 400;
+  font-size: 30px;
+  border-radius: 20px;
+  border: unset;
+  cursor: pointer;
+  filter: drop-shadow(12px 4px 2px #595959);
+  line-height: 1;
+}
+
+.mb-style-1 {
+  background-color: #35660e;
+  color: white;
+}
+
+.mb-style-2 {
+  max-width: 250px;
+  background-color: #40483a;
+  color: white;
+  text-align: left;
+}
+
+.mb-style-3 {
+  background-color: #071594;
+  color: white;
+}
